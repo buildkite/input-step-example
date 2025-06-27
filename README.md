@@ -3,7 +3,7 @@
 [![Build status](https://badge.buildkite.com/a947f64837044296a1ea4394819872e0544a4647a3400e6634.svg?branch=main)](https://buildkite.com/buildkite/input-step-example)
 [![Add to Buildkite](https://img.shields.io/badge/Add%20to%20Buildkite-14CC80)](https://buildkite.com/new)
 
-This repository is an example [Buildkite](https://buildkite.com/) pipeline that demonstrates how to use an [Input Step](https://buildkite.com/docs/pipelines/input-step-example) to pause a build and request manual input.
+This repository is an example [Buildkite](https://buildkite.com/) pipeline that demonstrates how to use an [Input Step](https://buildkite.com/docs/pipelines/configure/step-types/input-step) to pause a build and request manual input.
 
 👉 **See this example in action:** [https://buildkite.com/docs/pipelines/input-step-example](https://buildkite.com/buildkite/input-step-example/builds/latest)
 
