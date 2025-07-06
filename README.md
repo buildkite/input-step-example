@@ -35,6 +35,8 @@ See the full [Getting Started Guide](https://buildkite.com/docs/guides/getting-s
   <em>The input value echoed back by the script</em>
 </p>
 
+<!-- docs:start -->
+
 ## How it works
 
 This example:
@@ -44,10 +46,7 @@ This example:
 
 To switch platforms, edit the step in `.buildkite/pipeline.yml`.
 
-## Requirements
-
-- A [Buildkite agent](https://buildkite.com/docs/agent)
-- A pipeline pointing at this repository
+<!-- docs:end -->
 
 ## License
 
